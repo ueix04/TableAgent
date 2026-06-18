@@ -19,11 +19,11 @@
 # 1. 安装依赖
 pip install -r requirements.txt
 
-# 3. 配置 API Key
+# 2. 配置 API Key
 # 在 .env 文件中设置你的 API Key：
 # DASHSCOPE_API_KEY=your_api_key_here
 
-# 4. 启动 Web UI
+# 3. 启动 Web UI
 python main.py
 # 浏览器访问 http://127.0.0.1:7860
 ```
