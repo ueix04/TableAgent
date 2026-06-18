@@ -16,10 +16,7 @@
 ## 快速开始
 
 ```bash
-# 1. 激活环境
-conda activate pytorch
-
-# 2. 安装依赖
+# 1. 安装依赖
 pip install -r requirements.txt
 
 # 3. 配置 API Key
