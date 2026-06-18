@@ -1,0 +1,9 @@
+# TableAgent 依赖清单
+# 环境: conda env pytorch (Python 3.13)
+
+openai>=2.41           # 通义千问 API (Function Call)
+seaborn>=0.13          # 数据可视化
+gradio>=6.18           # 对话 UI 框架
+pandas>=3.0            # 数据处理
+numpy>=2.3             # 数值计算
+matplotlib>=3.10       # 基础绘图
